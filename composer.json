@@ -14,7 +14,7 @@
     "type" : "library",
     "require": {
         "php": "^8.0",
-        "elasticsearch/elasticsearch": "^8.7",
+        "elasticsearch/elasticsearch": "~7.0",
         "openai-php/client": "^0.4.2"
     },
     "require-dev": {
