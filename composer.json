@@ -1,7 +1,7 @@
 {
-    "name" : "elastic/elasticsearch-chatgpt-php",
+    "name" : "ppeer/my-elasticsearch-chatgpt-php",
     "description" : "Elasticsearch ChatGPT for PHP",
-    "homepage": "https://github.com/elastic/elasticsearch-chatgpt-php",
+    "homepage": "https://github.com/ppeer/my-elasticsearch-chatgpt-php",
     "keywords" : [
         "elastic",
         "search",
